@@ -27,6 +27,6 @@ typedef enum {
   CHAR_LPAR,
   CHAR_RPAR,
   CHAR_UNKNOWN
-} CharCode;
+} CharCode; //enum là khai báo một kiểu hằng riêng , nó gồm có các hằng như trên.
 
 #endif

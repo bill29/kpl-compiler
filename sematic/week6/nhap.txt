@@ -1,0 +1,4 @@
+//them vao kieu type
+//them vao o scaner
+//them kieu cac kieu unsinged constant
+//them tk_float vao unsignded constan

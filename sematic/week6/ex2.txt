@@ -1,0 +1,7 @@
+Program Example2; 
+Var n : FLOAT; x : FLOAT;
+Begin
+n:=12.5;
+x:=12.5*2.5;
+if x>2.4 then n:=1.2+4 else x:=1;	
+End.

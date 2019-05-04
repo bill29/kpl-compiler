@@ -1,0 +1,6 @@
+Program Example2; (* Factorial *)
+   
+Var n : FLOAT;
+Begin
+n:=12.5;
+End.

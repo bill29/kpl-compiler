@@ -1,0 +1,7 @@
+PROGRAM  EXAMPLE3;  (* TOWER OF HANOI *)
+VAR  N:INTEGER;  
+     A:ARRAY[10] OF INTEGER;
+BEGIN
+  FOR  N := 1  TO  4  DO  
+  A[N]:=1;
+END.  

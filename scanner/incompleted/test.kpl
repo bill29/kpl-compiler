@@ -1,0 +1,4 @@
+VAR X:INTERGER;
+X:=10;
+VAR Y:FLOAT;
+Y:=12.5;

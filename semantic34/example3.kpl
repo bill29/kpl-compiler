@@ -1,0 +1,17 @@
+Program Example2; (* Factorial *)
+   
+Var n : Integer;
+    k : Integer;
+Function F(n : Integer) : Integer;
+  Begin
+    F:=3;
+
+  End;
+
+Begin
+
+  For k := 2.5 To 7 Do
+    Begin
+        n:= n + 1;  
+    End;
+End.
